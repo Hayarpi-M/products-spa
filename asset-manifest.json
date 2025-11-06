@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/products-spa/static/css/main.5737dfc4.css",
+    "main.js": "/github.io/products-spa/static/js/main.48f66c8a.js",
+    "static/js/453.0b2de67d.chunk.js": "/github.io/products-spa/static/js/453.0b2de67d.chunk.js",
+    "index.html": "/github.io/products-spa/index.html",
+    "main.5737dfc4.css.map": "/github.io/products-spa/static/css/main.5737dfc4.css.map",
+    "main.48f66c8a.js.map": "/github.io/products-spa/static/js/main.48f66c8a.js.map",
+    "453.0b2de67d.chunk.js.map": "/github.io/products-spa/static/js/453.0b2de67d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5737dfc4.css",
+    "static/js/main.48f66c8a.js"
+  ]
+}
